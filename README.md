@@ -1,50 +1,22 @@
 # AI Quiz Generator 🤖
 
-An AI-powered quiz generation web application built using Python, Flask, and Google's Gemini API.
+An AI-powered quiz application built using Python, Flask, and Google Gemini AI.
 
 ## Features
-
-- Generate 5 multiple-choice questions on any topic.
-- Four options for each question.
-- Submit answers and calculate your score.
-- Display score, percentage, and feedback.
-- Simple and responsive web interface.
+- Generate 5 quiz questions on any topic.
+- Four multiple-choice options per question.
+- Calculate score and percentage.
+- Display feedback based on performance.
 
 ## Technologies Used
-
 - Python
 - Flask
 - Google Gemini API
 - HTML
 - CSS
 
-## How to Run Locally
-
-1. Clone this repository.
-2. Install the required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Create a `.env` file in the project folder and add your Gemini API key:
-
-   ```text
-   GEMINI_API_KEY=your_api_key_here
-   ```
-
-4. Run the application:
-
-   ```bash
-   python app.py
-   ```
-
-5. Open `http://127.0.0.1:5000` in your browser.
-
-## Security
-
-Keep your API key private. Never upload your `.env` file to GitHub.
-
-## Author
-
-Developed as a Python and Generative AI learning project.
+## How to Run
+1. Install dependencies using `pip install -r requirements.txt`.
+2. Add your Gemini API key to a local `.env` file.
+3. Run `python app.py`.
+4. Open `http://127.0.0.1:5000` in your browser.
