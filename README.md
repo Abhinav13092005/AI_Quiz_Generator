@@ -20,3 +20,10 @@ A **Generative AI (GenAI) powered quiz generation web application** built using 
 2. Add your Gemini API key to a local `.env` file.
 3. Run `python app.py`.
 4. Open `http://127.0.0.1:5000` in your browser.
+5. ## Live Demo
+
+🚀 **Try the project here:** https://ai-quiz-generator-ykmw.onrender.com
+
+## GenAI Integration
+
+This project uses Google's Gemini API to generate multiple-choice quiz questions dynamically based on the user's chosen topic.
