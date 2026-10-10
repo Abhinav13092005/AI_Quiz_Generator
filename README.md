@@ -1,6 +1,6 @@
 # AI Quiz Generator 🤖
 
-An AI-powered quiz application built using Python, Flask, and Google Gemini AI.
+A **Generative AI (GenAI) powered quiz generation web application** built using Python, Flask, and Google's Gemini API. It uses GenAI to generate multiple-choice questions on any topic and evaluates the user's quiz score.
 
 ## Features
 - Generate 5 quiz questions on any topic.
